@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdc7ce06-4f9c-4635-8d75-563e99cbd4af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1crcp1PKF3RQ6nr9eCys8UzF7Sk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="co.com.choucair.certification.EjercicioGuia.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.EjercicioGuia.questions" />
+      <recent name="co.com.choucair.certification.EjercicioGuia.interactions" />
+      <recent name="co.com.choucair.certification.EjercicioGuia.tasks" />
+      <recent name="co.com.choucair.certification.EjercicioGuia.models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RestRunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.choucair.certification.EjercicioGuia.runners.RestRunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RestRunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdc7ce06-4f9c-4635-8d75-563e99cbd4af" name="Default Changelist" comment="" />
+      <created>1591290331065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591290331065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1591306415072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1591306415072" />
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591294301569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591294301569" />
+    <state x="401" y="141" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591303534773">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="401" y="141" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1591303534773" />
+    <state x="438" y="224" width="756" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591303115522">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="224" width="756" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1591303115522" />
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom" timestamp="1591303857238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591303857238" />
+    <state width="1323" height="242" key="GridCell.Tab.0.center" timestamp="1591303857238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591303857238" />
+    <state width="1323" height="242" key="GridCell.Tab.0.left" timestamp="1591303857238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591303857238" />
+    <state width="1323" height="242" key="GridCell.Tab.0.right" timestamp="1591303857238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591303857238" />
+  </component>
+</project>
